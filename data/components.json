@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Alert",
+        "route": "/alert"
+    },
+    {
+        "name": "Avatar",
+        "route": "/avatar"
+    },
+    {
+        "name": "Card",
+        "route": "/card"
+    },
+    {
+        "name": "Animated Container",
+        "route": "/animated-container"
+    },
+    {
+        "name": "Input",
+        "route": "/input"
+    },
+    {
+        "name": "Dropdown",
+        "route": "/dropdown"
+    },
+    {
+        "name": "Slider",
+        "route": "/slider"
+    },
+    {
+        "name": "Checkbox",
+        "route": "/checkbox"
+    },
+    {
+        "name": "ListView",
+        "route": "/listview"
+    },
+    {
+        "name": "Pull Refresh",
+        "route": "/pull-refresh"
+    }
+
+]
