@@ -1,16 +1,25 @@
-# components_demo
+# Flutter Widgets Demo
 
-A new Flutter project.
+This repo show how to use a small bunch of most used widgets.
 
-## Getting Started
+There's what's inside:
 
-This project is a starting point for a Flutter application.
+- Alert
+- AnimatedContainer
+- Avatar
+- Button (in progress)
+- Card
+- Checkbox / Switch
+- Dropdown
+- TextField / Calendar
+- ListView
+- PullRefresh
+- Slider
 
-A few resources to get you started if this is your first Flutter project:
+Cross these pages, it uses nice features like `FutureBuilder`, routing, custom widgets, stateless & stateful widgets, http, images, etc.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Screenshots**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://i.imgur.com/47IeE98.png)
+
+![](https://i.imgur.com/FSlGj5m.png)
