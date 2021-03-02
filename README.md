@@ -16,9 +16,8 @@ This repo show how to use a small bunch of most used widgets.
 - PullRefresh
 - Slider
 
----
-
 👉 Cross these pages, it uses nice features like `FutureBuilder`, routing, custom widgets, stateless & stateful widgets, http, images, etc.
+
 
 ### Screenshots
 
