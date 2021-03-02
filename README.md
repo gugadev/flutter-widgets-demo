@@ -2,7 +2,7 @@
 
 This repo show how to use a small bunch of most used widgets.
 
-There's what's inside:
+### What's inside:
 
 - Alert
 - AnimatedContainer
@@ -16,9 +16,11 @@ There's what's inside:
 - PullRefresh
 - Slider
 
-Cross these pages, it uses nice features like `FutureBuilder`, routing, custom widgets, stateless & stateful widgets, http, images, etc.
+---
 
-**Screenshots**
+👉 Cross these pages, it uses nice features like `FutureBuilder`, routing, custom widgets, stateless & stateful widgets, http, images, etc.
+
+### Screenshots
 
 <center>
   <img src="https://i.imgur.com/47IeE98.png" width="350" />
