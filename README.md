@@ -20,6 +20,10 @@ Cross these pages, it uses nice features like `FutureBuilder`, routing, custom w
 
 **Screenshots**
 
-![](https://i.imgur.com/47IeE98.png)
+<center>
+  <img src="https://i.imgur.com/47IeE98.png" width="350" />
+</center>
 
-![](https://i.imgur.com/FSlGj5m.png)
+<center>
+  <img src="https://i.imgur.com/FSlGj5m.png" width="350" />
+</center>
